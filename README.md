@@ -1,2 +1,0 @@
-# reactProtectedRoute
-Created with CodeSandbox
